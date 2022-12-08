@@ -1,9 +1,11 @@
 {
-    "values": [
-      {
-        "id": 1,
-        "title": "David",
-        "age": 30
+    "columns": {
+       "values": [
+            {
+              "id": 1,
+              "title": "David",
+              "age": 30
+            }
+          ]
       }
-    ]
-}
+    }
